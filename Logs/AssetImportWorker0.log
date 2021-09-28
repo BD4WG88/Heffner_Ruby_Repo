@@ -216,3 +216,20 @@ Received Import Request.
 Start importing Assets/Art/Sprites/Tiles/Tile.png using Guid(d290812f2eb92f94b80d32a999db37c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a995d12e4e8df82f39d5ff97e11352') in 0.054260 seconds 
   Import took 0.060977 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 604.811115 seconds.
+  path: Assets/Art/Sprites/Environmnent/FloorBricksToGrassCorner.png
+  artifactKey: Guid(2ff4c9799e22f1b4c95766cc11f47530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites/Environmnent/FloorBricksToGrassCorner.png using Guid(2ff4c9799e22f1b4c95766cc11f47530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1de9a1ea63133b866ed0b8e36a82689') in 0.020174 seconds 
+  Import took 0.025992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 371.721436 seconds.
+  path: Assets/Art/Sprites/Environmnent/FloorBricksToGrassCorner.png
+  artifactKey: Guid(2ff4c9799e22f1b4c95766cc11f47530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites/Environmnent/FloorBricksToGrassCorner.png using Guid(2ff4c9799e22f1b4c95766cc11f47530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c33110c17bda9c2c15e55a227689915') in 0.038071 seconds 
+  Import took 0.043373 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
